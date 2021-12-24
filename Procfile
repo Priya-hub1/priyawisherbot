@@ -1,0 +1,1 @@
+web: gunicorn WisherBot:app --log-file -
